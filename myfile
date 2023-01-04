@@ -9,6 +9,12 @@ task : insatll docker in mumbaigit
 action : yum install docker
 
 
+
 all are old code
 i m starting from here
-action :build CI-CD pipeline 
+action :build CI-CD pipeline
+
+
+
+
+all code are done no need write new code 
