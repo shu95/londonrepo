@@ -2,3 +2,8 @@
  host : our srver {}]
 name : mumbai
 {}
+key :value
+key :shubhangi 
+value :age 
+task : insatll docker in mumbaigit
+action : yum install docker
